@@ -1,5 +1,5 @@
-time	lat	lon	depth	mag	magType	nst	gap	dmin	rms	net	id	updated	place	type	horizontalError	depthError	magError	magNst	status	locationSource	magSource
-2022-11-26T16:07:26.064Z	31.68803839	-104.4049837	6.080151367	3	ml	29	44	0.039354897	0.2	tx	tx2022xeij	2022-11-26T16:36:51.040Z	"54 km S of Whites City, New Mexico"	earthquake	0.76205491	0.672435449	0.1	18	reviewed	tx	tx
-2022-11-26T14:37:18.438Z	38.001	-118.2323	4	2.6	ml	28	56.8	0.255	0.3335	nn	nn00852064	2022-11-26T17:00:13.040Z	"29 km NE of Benton, California"	earthquake		0.9	0.46	11	automatic	nn	nn
-2022-11-26T10:01:39.720Z	33.096	-117.9731667	1.96	2.51	ml	20	213	0.3849	0.16	ci	ci40381176	2022-11-26T20:05:38.277Z	"43km SE of Avalon, CA"	earthquake	0.76	3.2	0.114	26	automatic	ci	ci
-2022-11-26T04:12:05.625Z	31.667	-104.4181	6.722	2.5	ml	31	107	0.07	0.34	us	us7000ishh	2022-11-26T05:04:22.040Z		earthquake	1.29	4.505	0.069	52	reviewed	us	us
+lat	lon	depth	mag
+31.68803839	-104.4049837	6.080151367	3
+38.001	-118.2323	4	2.6
+33.096	-117.9731667	1.96	2.51
+31.667	-104.4181	6.722	2.5
